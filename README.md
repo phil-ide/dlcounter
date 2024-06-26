@@ -1,4 +1,6 @@
 # dlcounter
+**Warning: I have forked the repository to another location after losing control of this account. The new repo should be used instead of this one, as that is where any updates will occur: [stroggprog/dlcounter](https://github.com/stroggprog/dlcounter)**
+
 Download counter for DokuWiki
 
 If you've ever wanted a download counter for DokuWiki to count how many zip, tar, gzip or other downloadable content has been fetched from your media library, this is probably what you want.
